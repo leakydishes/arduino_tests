@@ -3,6 +3,7 @@
 
 
 #### Tinkercad: https://www.tinkercad.com/
+#### Arduino Reference Documentation: https://www.arduino.cc/reference/en/#communication
 #### More information: https://www.tme.com/au/en/news/library-articles/page/42541/arduino-microcontrollers-for-everyone/
 
 
