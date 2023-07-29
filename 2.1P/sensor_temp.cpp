@@ -32,7 +32,8 @@
   
     time_Measurement();
     distance = duration * (0.0343) / 2;
-    
+
+    display_distance(); // visual display of lcd
   }
   
 
